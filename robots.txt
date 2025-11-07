@@ -1,0 +1,2 @@
+Allow: /
+Sitemap: https://ieia.ristek.or.id/sitemap.xml
