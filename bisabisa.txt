@@ -244,7 +244,7 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
     <!--M_a4d68c6e^s0-2-0-10 s0-2-0 10-->
     <script id=ebay-rum></script>
     <!--M_a4d68c6e/-->
-    <link rel="shortcut icon" href="https://idea.ristek.or.id/favicon.ico" type="image/png">
+    <link rel="shortcut icon" href="https://idea.ristek.or.id/public/journals/1/favicon_en_US.png" type="image/png">
     <script>
       $mbp_M_a4d68c6e = "https://ir.ebaystatic.com/rs/c/prpweb/"
     </script>
@@ -1192,7 +1192,7 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
                       <!--F#3-->
                       <!--F/-->
                       <div role=img class="avatar avatar--48">
-                        <img src=https://idea.ristek.or.id/favicon.ico alt=slotdepo5k>
+                        <img src=https://idea.ristek.or.id/public/journals/1/favicon_en_US.png alt=slotdepo5k>
                       </div>
                     </div>
                     <!--F/-->
@@ -11086,7 +11086,7 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
                                       "height": 112,
                                       "width": 112
                                     },
-                                    "URL": "https://idea.ristek.or.id/favicon.ico"
+                                    "URL": "https://idea.ristek.or.id/public/journals/1/favicon_en_US.png"
                                   },
                                   "dataItems": [{
                                     "_type": "TextualDisplay",
